@@ -11,7 +11,7 @@ I recommend setting up a local python virtual environment and installing the req
 ```
 $ python pip install -r requirements.txt
 ```
-Either execute code from with IDE (Visual Studio Code) or run from command line.
+Either execute code from with IDE (Recommended: Visual Studio Code) or run from command line.
 Command line:
 ```
 
