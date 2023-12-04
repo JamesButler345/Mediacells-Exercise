@@ -2,7 +2,7 @@
 
 This repo contains my submission to the Mediacells Python Task
 
-To run the code, I recommend setting up a local python virtual environment and install the requirements.txt.
+To run the code, I recommend setting up a local python virtual environment and installing the requirements.txt.
 ```
 $ python pip install -r requirements.txt
 ```
