@@ -11,7 +11,7 @@ I recommend setting up a local python virtual environment and installing the req
 ```
 $ python pip install -r requirements.txt
 ```
-Execute code from within IDE (Eg: Visual Studio Code).
+Run notebook from within IDE (Eg: Visual Studio Code).
 
 
 
